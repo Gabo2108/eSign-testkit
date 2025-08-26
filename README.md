@@ -30,7 +30,7 @@ npm run start
 ~~~  
 
 ## Tech Stack  
-**Client:** TypeScript, React, Next.js  
+**Client:** python, html  
 
 **Server:** Node, Express, GraphQL  
 
