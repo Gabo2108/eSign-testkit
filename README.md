@@ -12,5 +12,4 @@ Clone the project
 ~~~
 
 ## Tech Stack  
-**Client:** python  
-~~~  
+**Client:** python
